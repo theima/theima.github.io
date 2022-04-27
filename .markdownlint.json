@@ -1,0 +1,7 @@
+{
+    "first-line-heading": false,
+    "line-length": false,
+    "no-trailing-spaces": {
+        "br_spaces": 0
+    }
+}

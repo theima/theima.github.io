@@ -21,7 +21,7 @@
 title: theima
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A place to post complete small projects / tutorials
+  A place to post small projects / completed tutorials.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
