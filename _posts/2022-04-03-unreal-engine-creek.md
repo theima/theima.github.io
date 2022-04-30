@@ -1,3 +1,8 @@
+---
+tags: unreal tutorial
+category: tutorial
+---
+
 {%- include video.html url="/assets/2022-04-03/creek.mp4"-%}
 
 # Intro tutorial to UE5

@@ -1,3 +1,7 @@
+---
+tags: blender tutorial
+category: tutorial
+---
 {%- include video-loop.html url="/assets/2022-04-23/donut.mp4"-%}
 
 # Intro to blender 3

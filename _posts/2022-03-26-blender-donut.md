@@ -1,3 +1,7 @@
+---
+tags: blender tutorial
+category: tutorial
+---
 {%- include video.html url="/assets/2022-03-26/donut.mov"-%}
 
 # Tutorial in blender
