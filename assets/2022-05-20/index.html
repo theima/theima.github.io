@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>.</title>
+    <style>
+        canvas {
+            border: 1px solid black;
+            image-rendering: pixelated;
+        }
+
+        button {
+            display: block;
+            margin-bottom: .5rem;
+        }
+
+        .wfc_info {
+            margin-top: 0;
+            color: #888;
+            font-size: 11px;
+        }
+    </style>
+    <script defer src="dist.js"></script>
+</head>
+
+<body>
+    <button id="wfc_generate">Generate</button>
+    <canvas id="wfc_output"></canvas>
+    <p class="wfc_info"><span id="wfc_seed"></span></p>
+</body>
+
+</html>

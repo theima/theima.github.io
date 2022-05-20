@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="t">
+    {{ content }}
     <h1 class="t-heading">Posts with #{{ page.tag-name }}</h1>
     <ul class="post-list">
         {%- for post in site.posts -%}
