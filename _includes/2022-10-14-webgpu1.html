@@ -1,0 +1,33 @@
+<script defer src="/assets/2022-10-14/dist.js"></script>
+
+<div class="content">
+    <div class="controls">
+        <div>
+            <label for="animate">Animate cube</label><input type="checkbox" id="animate" checked>
+        </div>
+        <div>
+            <label for="colour">Cube colour</label>
+            <input id="colour" type="color" value="#6e78c4" />
+
+            <label for="specular-colour">Specular colour</label>
+            <input id="specular-colour" type="color" value="#ffffff" />
+        </div>
+        <div>
+            <label>Ambient light</label>
+            <input id="ambient" type="range" min="0" max="1" step="0.01" value="0.1" />
+
+            <label for="diffuse">Diffuse light</label>
+            <input id="diffuse" type="range" min="0" max="1" step="0.01" value="0.8" />
+        </div>
+        <div>
+            <label for="specular">Specular</label>
+            <input id="specular" type="range" min="0" max="1" step="0.01" value="0.4" />
+
+            <label for="shininess">Shininess</label>
+            <input id="shininess" type="range" min="0" max="100" step="1" value="30" />
+        </div>
+    </div>
+    <div class="item2">
+        <canvas id="canvas" width="640" height="480"></canvas>
+    </div>
+</div>
