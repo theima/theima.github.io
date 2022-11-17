@@ -1,0 +1,1 @@
+body *{box-sizing:border-box}.controls{margin-bottom:1rem;background-color:#d7d7dc;padding:.5rem;width:100%}.controls>div{margin-bottom:1rem;display:flex;align-items:center}.controls label{display:inline-block;min-width:5.5rem;margin-right:.5rem}.controls label:not(:first-child){margin-left:1rem}

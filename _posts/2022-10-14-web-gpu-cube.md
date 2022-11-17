@@ -8,3 +8,5 @@ category: weg-gpu
 # WebGPU cube
 
 Test of web gpu based on [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.youtube.com/watch?v=KTFFdZSDiTU)
+
+{%- include github.html url="https://github.com/theima/web-gpu-cube"-%}

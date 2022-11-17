@@ -18,3 +18,10 @@ h1 {
   margin-bottom: 1rem;
   background-color: #ddd;
 }
+.github-link {
+  margin-top: 1rem;
+  display: block;
+}
+.github-link img{
+  width:2.5rem;
+}

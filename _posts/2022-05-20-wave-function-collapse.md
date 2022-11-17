@@ -16,3 +16,5 @@ using and based on the examples in the javascript port
 
 the tiles are from
 <https://opengameart.org/content/happyland-tileset-wang-compatible>
+
+{%- include github.html url="https://github.com/theima/wfc-simple"-%}
